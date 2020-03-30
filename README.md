@@ -1,6 +1,8 @@
 # search-pattern
 A relation of search queries when searched with google search. It gives an extended relation between search performed by google and interconnection between results at an extra depth.
 
+See the application live in action on https://shashank-google-search.netlify.com/
+
 Steps to run the app.
 1. Go to the base folder and run ```npm install``` to install the node dependencies.
 2. Run ```npm start``` to start the application.
